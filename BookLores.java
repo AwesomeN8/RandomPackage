@@ -76,7 +76,7 @@ public class EnchantBookLores implements Listener {
 			} else if(i == 16) {
 				legendaryBookItemLores = "Protection";
 			} else if(i == 17) {
-				legendaryBookItemLores = "Rage";
+				legendaryBookItemLores = "Syco";
 			}
 			for(int o = 1; o <= 10; o++) {
 				if(!(legendaryBookItemLores == null)
